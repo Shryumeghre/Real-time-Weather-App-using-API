@@ -1,0 +1,20 @@
+{
+  "name": "npm1",
+  "version": "1.0.0",
+  "description": "\"Shryu Meghare\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "author": "Shryu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemailer": "^6.9.13",
+    "validator": "^13.12.0"
+  }
+}
